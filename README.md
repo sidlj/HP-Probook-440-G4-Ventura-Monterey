@@ -6,6 +6,7 @@
 - WIFI: Broadcom BCM94360
 - Drive: Crucial BX500 500GB SSD
 - FHD Display
+- OpenCore 0.8.8
 ## What works:
 - Wifi
 - Bluetooth
