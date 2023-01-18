@@ -23,9 +23,8 @@
 ## Let's Get Started
 ### Prepare:
 - HP Probook 440 G4
-- macOS Monterey downloaded from the App Store
-- atleast 8GB USB stick
-- USB Wifi adapter or LAN cable
+- macOS Ventura or Monterey downloaded from the App Store
+- at least 8GB USB stick
 ### Bios:
 - open F10
 - boot menu F9
