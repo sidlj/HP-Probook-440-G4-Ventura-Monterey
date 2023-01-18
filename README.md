@@ -62,6 +62,8 @@ sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstall
 - you might have to remove -v from boot arg (Use Opencore configurator).
 - reboot your laptop 
 
+Don't forget to change device uuid, board serials and network mac address Go to https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo For information on setting up SMBIOS platform info
+
 Now everything should be working
 
 Enjoy your new hackintosh
