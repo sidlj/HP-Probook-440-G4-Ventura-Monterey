@@ -4,7 +4,7 @@
 - CPU: i5-7200U
 - RAM: 8GB
 - WIFI: Broadcom BCM94360
-- Drive: 128GB SSD
+- Drive: Crucial BX500 500GB SSD
 - FHD Display
 ## What works:
 - Wifi
