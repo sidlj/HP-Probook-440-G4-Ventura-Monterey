@@ -1,5 +1,5 @@
 # HP Probook 440 G4 Hackintosh
-This guide is an update to @rucharddamare’s repository Install macOS 11 Big Sur on HP Probook 440 G4. https://github.com/RichardAmare/HP-Probook-440-G4-Big-Sur#hp-probook-440-g4-big-sur
+
 ## Configuration:
 - CPU: i5-7200U
 - RAM: 8GB
@@ -16,6 +16,8 @@ This guide is an update to @rucharddamare’s repository Install macOS 11 Big Su
 - Keyboard with Volume Controls and Brightness controls
 - Power Management with percentage
 - Trackpad
+- HDMI
+- USB-C Port
 ## What doesn't work:
 - Fingerprint sensor
 ## Let's Get Started
@@ -33,7 +35,7 @@ This guide is an update to @rucharddamare’s repository Install macOS 11 Big Su
 ### USB installer:
 - connect the USB stick to a device running macOS (Mac or Hackintosh)
 - open Disk Utility - format USB as Mac OS Extended (Journaled) and rename it to USB
-- download [MacOS Monterey from the Apple App Store.
+- download [MacOS Monterey or Ventura from the Apple App Store.
 - after download open terminal and paste:
 ```
 sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB
